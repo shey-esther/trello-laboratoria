@@ -1,0 +1,30 @@
+/**{
+	margin: 0px;
+	background:#FFFFE0;
+	border:0px;
+	box-sizing: border-box;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+}*/
+div{
+	
+	background:#4169E1;
+	margin: 30px 50px;
+	padding: 90px;
+}
+input{
+	text-align: left;
+	padding: 30px 460px;
+	background-color: #87CEEB;
+	background-size: 100px;
+}
+button{
+	border-radius: 9px;
+    padding: 15px 70px;
+    background:	#228B22;	
+}
+div.añadir2#guardar{
+	background: white;
+	border-spacing: 
+}
