@@ -1,30 +1,62 @@
-/**{
-	margin: 0px;
-	background:#FFFFE0;
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+header{
 	border:0px;
 	box-sizing: border-box;
 	color: white;
-	font-family: 'Raleway', sans-serif;
-	font-size: 16px;
-}*/
-div{
-	
-	background:#4169E1;
-	margin: 30px 50px;
-	padding: 90px;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	background: #228B22;
+}
+body{
+	margin: 0px;
+	background-image: url("../img/verde.jpg");
 }
 input{
-	text-align: left;
-	padding: 30px 460px;
-	background-color: #87CEEB;
-	background-size: 100px;
+	padding: 10px 20px;
+	padding: 20px;
+	background-color: #F0FFFF;
+	display: block;
+}
+h1{
+	padding-bottom: 40px;
+	padding-top: 40px;
+	background:#228B22;
 }
 button{
 	border-radius: 9px;
-    padding: 15px 70px;
-    background:	#228B22;	
+    padding: 10px 15px;
+    background-color:	#228B22;	
 }
 div.añadir2#guardar{
-	background: white;
-	border-spacing: 
+	
+	background-color: white;
+}
+.tablero{
+	display: inline-block;
+	background-color: #DCDCDC;
+	margin: 20px;
+	padding: 15px;
+}
+#div1{
+	margin-left: 20px;
+	padding: 10px 10px;
+	padding: 20px;
+	padding-top: 50px;
+	background-color: #DCDCDC;
+	display: inline-block;
+}
+.tablaf{
+	background-color: #DCDCDC;
+	margin: 20px;
+	padding: 15px;
+	display: inline-block;
+}
+#texto{
+	background-color: #F0FFFF;
+	display: block;
+	margin-bottom: 10px;
+}
+#botonIni.anadir{
+	margin-left: 20px;
 }
